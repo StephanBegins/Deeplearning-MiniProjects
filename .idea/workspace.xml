@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85a93572-cac7-4a78-8a0a-c5599d9bb734" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DeepLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NNClassifcation_MNIST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sample.py" afterDir="false" />
-    </list>
+    <list default="true" id="85a93572-cac7-4a78-8a0a-c5599d9bb734" name="Changes" comment="DeepLearning laboratory Program Practicing(1st one and 7th one)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +54,15 @@
       <option name="presentableId" value="Default" />
       <updated>1732633478890</updated>
     </task>
+    <task id="LOCAL-00001" summary="DeepLearning laboratory Program Practicing(1st one and 7th one)">
+      <option name="closed" value="true" />
+      <created>1732638257659</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732638257659</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DeepLearning laboratory Program Practicing(1st one and 7th one)" />
+    <option name="LAST_COMMIT_MESSAGE" value="DeepLearning laboratory Program Practicing(1st one and 7th one)" />
   </component>
 </project>
